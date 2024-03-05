@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Define a class called Person
+
 class Person {
 private:
     std::string name;       // Store name as a string
